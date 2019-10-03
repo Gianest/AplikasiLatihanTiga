@@ -1,0 +1,10 @@
+D:\big brain\AplikasiSelamatdatang\AplikasiLatihanTiga\bin\Debug\AplikasiLatihanTiga.exe.config
+D:\big brain\AplikasiSelamatdatang\AplikasiLatihanTiga\bin\Debug\AplikasiLatihanTiga.exe
+D:\big brain\AplikasiSelamatdatang\AplikasiLatihanTiga\bin\Debug\AplikasiLatihanTiga.pdb
+D:\big brain\AplikasiSelamatdatang\AplikasiLatihanTiga\obj\Debug\AplikasiLatihanTiga.Form1.resources
+D:\big brain\AplikasiSelamatdatang\AplikasiLatihanTiga\obj\Debug\AplikasiLatihanTiga.Properties.Resources.resources
+D:\big brain\AplikasiSelamatdatang\AplikasiLatihanTiga\obj\Debug\AplikasiLatihanTiga.csproj.GenerateResource.cache
+D:\big brain\AplikasiSelamatdatang\AplikasiLatihanTiga\obj\Debug\AplikasiLatihanTiga.csproj.CoreCompileInputs.cache
+D:\big brain\AplikasiSelamatdatang\AplikasiLatihanTiga\obj\Debug\AplikasiLatihanTiga.exe
+D:\big brain\AplikasiSelamatdatang\AplikasiLatihanTiga\obj\Debug\AplikasiLatihanTiga.pdb
+D:\big brain\AplikasiSelamatdatang\AplikasiLatihanTiga\obj\Debug\AplikasiLatihanTiga.csprojAssemblyReference.cache
